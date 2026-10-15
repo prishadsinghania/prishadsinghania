@@ -29,15 +29,6 @@ My favorite way to learn? Open a new tool, click around, break something (prefer
 
 🎵 **Music Genre Classification** — Teaching a neural network to recognize music genres. My own playlists remain considerably less organized.
 
-### 💬 Things we can nerd out about
-
-- Weird data problems that refuse to make sense
-- AI tools that are genuinely useful, not just impressive in demos
-- Automating repetitive tasks so humans can do more interesting things
-- Dashboards that people actually want to open
-- Hackathons, experiments, and ideas that start at inconvenient hours
-- Cooking, painting, Bharatanatyam, and creative rabbit holes
-
 ### 🌍 Outside the terminal
 
 I've spent 7 years learning Bharatanatyam, 6 learning classical Indian Carnatic singing, love getting creative with painting and cooking, and enjoy meeting people who are building something interesting.
