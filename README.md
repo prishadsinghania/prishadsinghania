@@ -6,7 +6,7 @@ I like figuring things out. Sometimes that's untangling a dataset that looks lik
 
 I recently graduated from the University of Illinois Urbana-Champaign with an MS in Information Management, and I work in cybersecurity analytics at RedLegg.
 
-My favorite way to learn? Open a new tool, click around, break something (preferably not production), Google the error, and repeat until something interesting happens.
+My favorite way to learn? Open a new tool, click around, break something (preferably not production), Google the error (or Claude's plan), and repeat until something interesting happens.
 
 ### 🛠️ My toolbox (and occasional partners in crime)
 
