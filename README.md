@@ -17,18 +17,6 @@ My favorite way to learn? Open a new tool, click around, break something (prefer
 
 *Not emotionally attached to any tech stack. Just whatever solves the problem.*
 
-### 🧪 Things I've been cooking up
-
-🌱 **PlantFit** — A hackathon-winning AgTech prototype. Turns out plants have problems worth solving too.
-
-🏃 **AdaptFit** — Exploring how technology can make workouts more injury-aware and personalized.
-
-🚇 **ReRoute Chicago** — Because public transit and data make a surprisingly interesting combination.
-
-🎙️ **Jev** — My playground for experimenting with voice AI and interactive experiences.
-
-🎵 **Music Genre Classification** — Teaching a neural network to recognize music genres. My own playlists remain considerably less organized.
-
 ### 🌍 Outside the terminal
 
 I've spent 7 years learning Bharatanatyam, 6 learning classical Indian Carnatic singing, love getting creative with painting and cooking, and enjoy meeting people who are building something interesting.
